@@ -7,9 +7,9 @@ Quando metteremo insieme il tutto forse sarà necessario tagliare qualche interv
 vedremo quelli venuti meglio.
 
 * MOTIVAZIONE
-    - (Amira) Bullismo: definizione di bullismo
-    - (Jamila) NaoChallenge2019: competizione di robotica educativa nazionale
-    - (Amira + Jamila + Marta) coretto: "Bullismo + NAOchallenge = LifeIsNAO"
+    - (Amira) Bullismo: "Il bullismo è una forma di comportamento sociale di tipo violento e intenzionale, di natura sia fisica che psicologica, che negli ultimi anni è cresciuto in maniera allarmante"
+    - (Jamila) NaoChallenge2019: "LA NAOChallenge è una competizione avente lo scopo di divulgare le potenzialità sociali della robotica educativa"  
+    - (Amira + Jamila + Marta) coretto: "Abbiamo così deciso di prendere a pretesto questa competizione per affrontare il tema del bullismo, creando il nostro progetto LifeIsNao"
 * PERCORSO
     - (Marta) Incontro con avvocato e rete con il S. Stefano
 * EFFICACIA E INNOVAZIONE:
